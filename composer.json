@@ -1,5 +1,5 @@
 {
-	"name": "wearearchitect/sharepoint-oauth-app-client",
+	"name": "zunnu/sharepoint-oauth-app-client",
 	"type": "library",
 	"description": "SharePoint OAuth App Client",
 	"keywords": ["sharepoint", "online", "2013", "oauth", "rest", "api", "client"],
