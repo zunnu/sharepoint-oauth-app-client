@@ -15,7 +15,7 @@ This library aims for [PSR-1][], [PSR-2][] and [PSR-4][] standards compliance.
 
 ## Installation
 ``` bash
-composer require "wearearchitect/sharepoint-oauth-app-client:0.9.*"
+composer require "zunnu/sharepoint-oauth-app-client:0.9.*"
 ```
 
 ## Basic usage example
